@@ -12,5 +12,10 @@
             "email": "i@iiyun.org"
         }
     ],
+    "autoload":{
+        "psr-4": {
+            "iningmeng\\pptimages\\" : "src/"
+        }
+    },
     "minimum-stability": "dev"
 }
